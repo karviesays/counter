@@ -1,2 +1,2 @@
 # counter
-Counting App
+Counting App, with increasing, decreasing, reset button
